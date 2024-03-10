@@ -3,6 +3,9 @@
     "changelogs": {
         "1.0.0": [
             "Created script."
+        ],
+        "1.0.1": [
+            "Fixed a typo where job was not updating"
         ]
     }
 }

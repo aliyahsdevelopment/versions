@@ -1,11 +1,15 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "changelogs": {
         "1.0.0": [
             "Created script."
         ],
         "1.0.1": [
             "Fixed a typo where job was not updating"
+        ],
+        "1.0.2": [
+            "Added where the money hud hides on opening pausemenu",
+            "Fixed money not updating"
         ]
     }
 }

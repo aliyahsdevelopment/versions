@@ -10,6 +10,9 @@
         "1.0.2": [
             "Added where the money hud hides on opening pausemenu",
             "Fixed money not updating"
+        ],
+        "1.0.3": [
+            "Not essential update if money hud is working!"
         ]
     }
 }

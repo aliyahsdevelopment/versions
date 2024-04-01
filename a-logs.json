@@ -1,11 +1,13 @@
 {
-    "version": "1.1",
+    "version": "1.1.0",
     "changelogs": {
         "1.0.0": [
             "Added new log features"
         ],
-        "1.1": [
-            "Remade script and added a 'queue' so it doesn't get ratelimited"
+        "1.1.0": [
+            "Remade script and added a 'queue' so it doesn't get ratelimited",
+            "Added new features",
+            "More exports"
         ]
     }
 }

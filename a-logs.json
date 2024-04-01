@@ -7,7 +7,8 @@
         "1.1.0": [
             "Remade script and added a 'queue' so it doesn't get ratelimited",
             "Added new and advanced features",
-            "More exports"
+            "More exports",
+            "More Support"
         ]
     }
 }

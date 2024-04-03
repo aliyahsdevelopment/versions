@@ -1,0 +1,33 @@
+[
+    {
+        "version": "1.0.0",
+        "updates": [
+            "Created script."
+        ]
+    },
+    {
+        "version": "1.0.1",
+        "changes": [
+            "Fixed a typo where job was not updating"
+        ]
+    },
+    {
+        "version": "1.0.2",
+        "changes": [
+            "Added where the money hud hides on opening pausemenu",
+            "Fixed money not updating"
+        ]
+    },
+    {
+        "version": "1.0.3",
+        "changes": [
+            "Not essential update if money hud is working!"
+        ]
+    },
+    {
+        "version": "1.0.4",
+        "changes": [
+            "Fixed job not updating"
+        ]
+    }
+]

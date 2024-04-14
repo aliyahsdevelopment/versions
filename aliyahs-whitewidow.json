@@ -3,6 +3,10 @@
     "changelogs": {
         "1.0.0": [
             "Created script."
+        ],
+        "1.0.1": [
+            "Fixed some issues",
+            "Remade the version checking for old ox_lib"
         ]
     }
 }

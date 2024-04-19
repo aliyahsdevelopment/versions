@@ -1,0 +1,8 @@
+{
+    "version": "1.0.1",
+    "changelogs": {
+        "1.0.1": [
+            "Added a \"coloring\" system where you can choose between different colors from ingame. This can be customized alot."
+        ]
+    }
+}

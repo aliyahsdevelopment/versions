@@ -15,7 +15,7 @@
             "Added so can choose what stuff should hide onEnter."
         ],
         "1.0.5": [
-            "Added a \"anti RDM\" thing. When you enter the zone you cannot see people outside, only people inside. This makes it so you can RDM at all."
+            "Added a \"anti RDM\" thing. When you enter the zone you cannot see people outside, only people inside. This makes it so you can't RDM at all."
         ]
     }
 }

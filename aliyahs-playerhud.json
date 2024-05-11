@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "changelogs": {
         "1.0.0": [
             "Created script."
@@ -7,6 +7,9 @@
         "1.0.1": [
             "Made it so command suggestions in the chat don't mess up.",
             "Optimized script a little and added a option to hide the hud on pausemenu"
+        ],
+        "1.0.2": [
+            "Removed chat suggestion for command because it was bugging out in some cases"
         ]
     }
 }

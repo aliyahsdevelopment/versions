@@ -10,6 +10,9 @@
         ],
         "1.0.2": [
             "Removed chat suggestion for command because it was bugging out in some cases"
+        ],
+        "1.0.3": [
+            "Added chat suggestion for command because it was bugging out in some cases"
         ]
     }
 }

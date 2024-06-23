@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "changelogs": {
         "1.0.0": [
             "Created script."
@@ -13,6 +13,9 @@
         ],
         "1.0.3": [
             "Added chat suggestion for command because it was bugging out in some cases"
+        ],
+        "1.0.4": [
+            "Fixed so the script does not depend on any framework and can be used for standalone!"
         ]
     }
 }

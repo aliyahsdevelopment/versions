@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "changelogs": {
         "1.0.1": [
             "Added a \"coloring\" system where you can choose between different colors from ingame. This can be customized alot."
@@ -16,6 +16,11 @@
         ],
         "1.0.5": [
             "Added a \"anti RDM\" thing. When you enter the zone you cannot see people outside, only people inside. This makes it so you can't RDM at all."
+        ],
+        "1.0.6": [
+            "Added support for ox_inventory.",
+            "Optimized NUI side, etc.",
+            "Non essential update if you don't use ox_inventory."
         ]
     }
 }

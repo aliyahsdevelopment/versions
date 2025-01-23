@@ -24,7 +24,8 @@
         ],
         "1.0.7": [
             "Added discord logs for killstreaks (increment of 5).",
-            "Fixed an issue where the person would not get the weapon configured"
+            "Fixed an issue where the person would not get the weapon configured",
+            "Added a anti-vehicle feature when you enter the zone"
         ]
     }
 }

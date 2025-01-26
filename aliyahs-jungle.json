@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "changelogs": {
         "1.0.1": [
             "Added a \"coloring\" system where you can choose between different colors from ingame. This can be customized alot."
@@ -26,6 +26,9 @@
             "Added discord logs for killstreaks (increment of 5).",
             "Fixed an issue where the person would not get the weapon configured",
             "Added a anti-vehicle feature when you enter the zone"
+        ],
+        "1.0.8": [
+            "Enhance Discord logging to trigger on every kill and update default embed color"
         ]
     }
 }
